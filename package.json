@@ -1,0 +1,22 @@
+{
+  "name": "wwoc",
+  "version": "1.0.0",
+  "description": "an rbg-based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foodforcode/wwoc.git"
+  },
+  "author": "Connie A Tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foodforcode/wwoc/issues"
+  },
+  "homepage": "https://github.com/foodforcode/wwoc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
