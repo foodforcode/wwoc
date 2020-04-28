@@ -36,8 +36,8 @@ function reset(){
 			squares[i].style.display="none";
 		}
 	}
-	h1.style.backgroundColor = "steelblue";
-	p.style.backgroundColor = "steelblue";
+	h1.style.backgroundColor = "#637074";
+	p.style.backgroundColor = "#637074";
 	messageDisplay.textContent = "";
 	resetButton.textContent = "New Colors";
 }
@@ -61,7 +61,7 @@ for(var i = 0; i < squares.length; i++) {
 			resetButton.textContent = "Play Again?";
 		} else {
 			this.style.backgroundColor = "#232323";
-			messageDisplay.textContent = "Try Again!"
+			messageDisplay.textContent = "Try Again"
 		}
 	});
 };

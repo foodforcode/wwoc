@@ -6,7 +6,7 @@ body {
 
 .square {
 	width: 30%;
-	background: purple;
+	background: #FFFFFF;
 	padding-bottom: 30%;
 	float: left;
 	margin: 1.66%;
@@ -29,7 +29,7 @@ h1, p {
 	line-height: 1.1;
 	text-transform: uppercase;
 	text-align: center;
-	background-color: steelblue;
+	background-color: #637074;
 	padding-top: 20px;
 	padding-bottom: 10px;
 }
@@ -57,7 +57,7 @@ h1, p {
 
 .selected {
 	color: white;
-	background-color: steelblue
+	background-color: #637074;
 }
 
 .hidden {
@@ -70,7 +70,7 @@ button {
 	text-transform: uppercase;
 	height: 100%;
 	font-weight: 700;
-	color: steelblue;
+	color: #637074;
 	font-size: inherit;
 	transition: all 0.4s;
 	outline: none;
@@ -78,5 +78,5 @@ button {
 
 button:hover {
 	color: white;
-	background-color: steelblue;
+	background-color: #637074;
 }
