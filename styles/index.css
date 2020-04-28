@@ -26,16 +26,13 @@ h1, p {
 	font-weight: normal;
 	text-align: center;
 	margin: 0;
+	border: 0px;
 	line-height: 1.1;
 	text-transform: uppercase;
 	text-align: center;
 	background-color: #637074;
 	padding-top: 20px;
 	padding-bottom: 10px;
-}
-
-#instructions {
-	font-family: ;
 }
 
 #message {
