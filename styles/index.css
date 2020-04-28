@@ -35,6 +35,10 @@ h1, p {
 	padding-bottom: 10px;
 }
 
+#instructions {
+	margin-top: -1px;
+}
+
 #message {
 	display: inline-block;
 	width: 20%;
